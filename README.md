@@ -69,3 +69,8 @@ cd book-review-platform
 Open http://localhost:3000 in your browser.
 Sign up as a new user.
 Add books, write reviews, and browse existing books.
+
+
+
+<img width="1792" height="990" alt="image" src="https://github.com/user-attachments/assets/49f1feee-0146-4909-bcbb-434d47b49231" />
+
